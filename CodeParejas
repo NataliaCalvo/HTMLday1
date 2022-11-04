@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+
+        
+        header,footer{
+         background-image: url('https://i.postimg.cc/hjxGwsWx/template.png');
+         color:rgb(22, 5, 5);
+         position: relative;
+         width: 100%;
+         opacity: 0.4;;
+         padding-bottom: 0%;
+         text-align:center;
+         font: bold;
+         font-size: xx-large;
+         border-image-repeat: repeat;
+              
+        }
+        main{
+         background-image: url('https://i.postimg.cc/XJjYX1N3/636050e07714e.webp');
+         background-size: cover;
+         color:#fff;
+         padding:5px;
+         text-align:left;
+         text-decoration:overline;
+         font: bold;
+         font-size: xx-large;
+         font: arial;
+         border-image-repeat: no-repeat;
+        }
+        .colammas{
+        display: flex;
+        margin: auto;
+        width: 600px;
+    
+    }
+    .colamma
+    {
+        padding: 0 0 0 30px;
+        width: 300px;
+    }
+     </style>
+        </style>
+</head>
+<body>
+    <header>
+     <h1>Los lobos informáticos</h1>
+    </header>
+    <main>
+        
+        <img src="C:\Users\nomd2\Downloads\Html\baner.jpg"/>
+        
+ <div class="colamma">
+                <div class="colamma">
+                    
+            <img src="https://i.postimg.cc/3JjGSg2z/19324-10151399183867962-400692860-n.png"alt="Foto de Natalia Calvo" style="width: 400px;height:300px"/>
+            <p>Natalia C.</p>
+
+                </div>
+            <div class="colamma">
+          <img src="C:\Users\nomd2\Downloads\Html\mcoder.jpg" alt="famel coder"  style= "width:300px;height:200px"/>
+          <p>Nematullah O. </p>
+          <h1>DO NOT FLY SOLO</h1>
+        </div>
+        
+    </main>
+    <div> 
+         
+        <p><b>HTML:5  CSS</b></p> >
+    </div>
+    
+    <footer>
+        <p>no copy </p>
+
+    </footer>
+</body>
+</html>
